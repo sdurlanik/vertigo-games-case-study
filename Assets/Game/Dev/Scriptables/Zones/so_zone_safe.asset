@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1675f88bf1ca443aa09e798bb873b3df, type: 3}
+  m_Name: so_zone_safe
+  m_EditorClassIdentifier: 
+  rouletteBaseSprite: {fileID: 21300000, guid: 2a4479741c20ca54a9876158530d1aa1, type: 3}
+  rouletteIndicatorSprite: {fileID: 21300000, guid: 71224129418e0414cbc8312e2102b17a, type: 3}
+  switchBarSprite: {fileID: 21300000, guid: bd5d7fd6a5625b544b55fe683cf192d1, type: 3}
+  rewards:
+  - {fileID: 11400000, guid: bf9ad02b4bf512c489f324bf41dc96d6, type: 2}
+  - {fileID: 11400000, guid: ab35f3675458a5240be7403623163ffc, type: 2}
+  - {fileID: 11400000, guid: 2063d50c4771a02499aca1c389c3f7e0, type: 2}
+  - {fileID: 11400000, guid: 70b9ece00fdd97d4ba850b9a67865d9a, type: 2}
+  - {fileID: 11400000, guid: 724dc8bd08faca04580de20fdc070749, type: 2}
+  - {fileID: 11400000, guid: 7a6f3d3932072ff4196848c243d7f5bc, type: 2}
+  - {fileID: 11400000, guid: 04aea7b900c80aa45b61c0108a58f6bd, type: 2}
+  - {fileID: 11400000, guid: bd658761993f001479260caea3136265, type: 2}
+  - {fileID: 11400000, guid: 1f9a39880b68d924b8783dc665285434, type: 2}
+  - {fileID: 11400000, guid: b185d97f23831c348b510c9812166c4e, type: 2}
+  - {fileID: 11400000, guid: 50448422ff5e35e47b2d1ab25b1c9ba0, type: 2}
+  - {fileID: 11400000, guid: 14083d6d519546d45a41390d6eb1743c, type: 2}
+  - {fileID: 11400000, guid: 144545d62dd785845a658727fe361717, type: 2}
+  - {fileID: 11400000, guid: fccd14eb003612342856f4f654464e54, type: 2}
+  - {fileID: 11400000, guid: 3034dc3cbd608a640b91ba82cee73f2c, type: 2}
+  - {fileID: 11400000, guid: bf9ad02b4bf512c489f324bf41dc96d6, type: 2}
+  triggerInterval: 5
+  rewardValueMultiplier: 0.01
